@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+optuna
+xgboost
+ipykernel
+notebook
+seaborn
+fastapi 
+uvicorn 
+pydantic 
+joblib
